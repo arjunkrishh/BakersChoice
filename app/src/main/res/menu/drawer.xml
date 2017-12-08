@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/Cakes"
+    android:title="Cakes"
+    android:icon="@drawable/ic_cakes"></item>
+    <item
+        android:id="@+id/Cookies"
+        android:title="Cookies"
+        android:icon="@drawable/ic_cookies"></item>
+    <item
+        android:id="@+id/Chocolates"
+        android:title="Chocolates"
+        android:icon="@drawable/ic_chocolates"></item>
+    <item
+        android:id="@+id/Burgers"
+        android:title="Burgers"
+        android:icon="@drawable/ic_hamburger"></item>
+    <item
+        android:id="@+id/Desserts"
+        android:title="Desserts"
+        android:icon="@drawable/ic_cupcake_dessert"></item>
+    <item
+        android:id="@+id/HotBeverages"
+        android:title="Hot Beverages"
+        android:icon="@drawable/ic_cup_of_hot_chocolate"></item>
+    <item
+        android:id="@+id/IceCreams"
+        android:title="Ice Creams"
+        android:icon="@drawable/ic_three_balls_ice_cream_cone"></item>
+    <item
+        android:id="@+id/Juices"
+        android:title="Juices"
+        android:icon="@drawable/ic_vegetables_juice"></item>
+    <item
+        android:id="@+id/MilkShakes"
+        android:title="Milk Shakes"
+        android:icon="@drawable/ic_milkshakes"></item>
+    <item
+        android:id="@+id/Pizzas"
+        android:title="Pizzas"
+        android:icon="@drawable/ic_pizza_slice_cut"></item>
+    <item
+        android:id="@+id/MockTails"
+        android:title="Mock Tails"
+        android:icon="@drawable/ic_cocktail"></item>
+    <item
+        android:id="@+id/SandWiches"
+        android:title="Sandwiches"
+        android:icon="@drawable/ic_cakes"></item>
+</menu>
